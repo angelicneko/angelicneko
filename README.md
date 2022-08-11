@@ -1,4 +1,4 @@
-- 👋 Hi, Neko
+- 👋 Hey my name is Neko
 - 👀 I’m interested in "Server Development | UX Design | Exploit Development | Pentesting"
 - 🌱 I’m currently learning "C++ | Python | CSharp"
 - 💞️ I’m looking to collaborate on "N64 Mods | Cheat Software | C++ Server Design for Games"
